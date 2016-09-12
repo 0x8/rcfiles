@@ -1,0 +1,14 @@
+##UTILITY
+#alias ll='ls -la'
+alias q='exit'
+alias ropg='ROPgadget'
+
+##Directories
+alias github='cd ~/Documents/Github'
+alias writeups='cd ~/Documents/Github/writeups'
+alias uuu='sudo apt-get update && sudo apt-get upgrade -fy && sudo apt-get dist-upgrade -fy'
+alias la='ls -la'
+
+##Random testing
+alias testcmd='echo $1'
+alias evince='evince $@ &'
